@@ -3,6 +3,7 @@
 * Simple table for entering grocery item using Angular CLI:-
 * This code used in DP_C - front end web development.
 
+#_Typescript
 #_Bootstrap
 #_HTML
 #_JS
